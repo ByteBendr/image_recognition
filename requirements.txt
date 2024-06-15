@@ -1,0 +1,7 @@
+click==8.1.7
+colorama==0.4.6
+numpy==1.26.4
+Pillow==10.1.0
+Pillow==10.3.0
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
